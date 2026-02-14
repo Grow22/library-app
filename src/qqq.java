@@ -4,4 +4,5 @@ public class qqq {
     int name;
     int change;
     int change2;
+    int change3;
 }
